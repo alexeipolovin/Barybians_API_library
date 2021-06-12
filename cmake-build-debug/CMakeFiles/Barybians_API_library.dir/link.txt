@@ -1,0 +1,2 @@
+E:\Qt\Tools\mingw810_64\bin\ar.exe qc libBarybians_API_library.a CMakeFiles/Barybians_API_library.dir/webconnector.cpp.obj CMakeFiles/Barybians_API_library.dir/Data.cpp.obj
+E:\Qt\Tools\mingw810_64\bin\ranlib.exe libBarybians_API_library.a

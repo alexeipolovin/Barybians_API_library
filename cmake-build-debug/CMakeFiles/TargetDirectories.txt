@@ -1,0 +1,3 @@
+C:/Users/Kernux/CLionProjects/Barybians-API-library/cmake-build-debug/CMakeFiles/Barybians_API_library.dir
+C:/Users/Kernux/CLionProjects/Barybians-API-library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kernux/CLionProjects/Barybians-API-library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
